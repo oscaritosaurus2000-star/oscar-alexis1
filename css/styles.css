@@ -1,11 +1,11 @@
 /* Reset simple */
 * {box-sizing: border-box;margin: 0; padding: 0; font-family: Arial, sans-serif;}
 
-body {padding: 30px; background: #E9967A; color: #FFDEAD;}
+body {padding: 30px; background: #29A360; color: #0E783A;}
 
 header h1 {margin-bottom: 20px;}
 
-.exercise{background: red;padding: 18px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0,08);margin-bottom: 16px;}
+.exercise{background: green;padding: 18px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0,08);margin-bottom: 16px;}
 
 .ball{
   width: 60px;height: 60px; border-radius: 50%;
@@ -60,4 +60,5 @@ header h1 {margin-bottom: 20px;}
   0%{background: #ffd166;}
   50%{background: #06d6a0;}
   100%{background: #ffd166;}
+
 }
